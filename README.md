@@ -1,2 +1,3 @@
-# chat
-emulador de chat com javascript
+# Chat
+
+Emulador de chat com javascript
